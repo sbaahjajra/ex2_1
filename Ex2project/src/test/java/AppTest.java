@@ -1,12 +1,15 @@
-package Ex2project.Ex2project;
+
+
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+import Ex2project.Ex2project.App;
+
 /**
- * Unit test for simple App.
+ * Unit test for simple App
  */
 public class AppTest 
 {
@@ -45,3 +48,4 @@ public class AppTest
 	}
 
 }
+
